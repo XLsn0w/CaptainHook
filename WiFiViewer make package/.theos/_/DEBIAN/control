@@ -1,0 +1,15 @@
+Package: com.xlsn0w.wifipassword
+Section: Tweaks
+Maintainer: BigBoss
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5000)
+Architecture: iphoneos-arm
+Name: NetworkList
+Description: 在设置中查看保存的WiFi密码 (xlsn0w)
+Sponsor: xlsn0w
+Author: xlsn0w
+Tag: purpose::extension
+Depiction: 
+dev: xlsn0w
+homepage: 
+Version: 1.5.0-1+debug
+Installed-Size: 40
