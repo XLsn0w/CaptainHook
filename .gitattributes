@@ -1,0 +1,19 @@
+*.x linguist-language=CaptainHook
+*.xm linguist-language=CaptainHook
+
+*.c linguist-language=CaptainHook 
+*.h linguist-language=CaptainHook
+*.m linguist-language=CaptainHook 
+*.mm linguist-language=CaptainHook 
+
+*.deb linguist-language=CaptainHook
+*.py linguist-language=CaptainHook
+
+*.sh linguist-language=CaptainHook
+
+*.cpp linguist-language=CaptainHook
+*.hpp linguist-language=CaptainHook
+
+*.html linguist-language=CaptainHook
+*.css linguist-language=CaptainHook
+*.js linguist-language=CaptainHook
